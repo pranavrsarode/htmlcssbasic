@@ -1,0 +1,185 @@
+.top-container
+{
+  width: 1000px;
+  height: 1000px;
+  padding: 10px;
+  background-color: navy;  
+  font-family: sans-serif;
+}
+
+.mid-container
+{
+    width: 920px;
+    height: 920px;
+    background-color: yellowgreen;
+    padding: 38px;
+}
+
+.center-container
+{
+    width: 870px;
+    height: 870px;
+    background-color: white;
+    padding: 19px;
+}
+
+.container img
+{
+    width: 450px;
+    height: 150px;
+    float: left;
+}
+
+.left-text img
+{
+    width: 150px;
+    height: 150px;
+    padding: 15px;
+    float: right;
+}
+
+.parallelogram
+{
+    color:white;
+    text-align: center;
+    width: 300px;
+	height: 80px;
+    transform: skew(5deg);
+	background: red;
+    padding: 10px;
+    float: right;
+    font-family: sans-serif;
+}
+
+.parallelogram p
+{
+    transform: skew(-20deg);
+}
+
+.parallelogram-two
+{
+    color:white;
+    text-align: center;
+    width: 300px;
+	height: 80px;
+	transform: skew(5deg);
+	background: black;
+    padding: 10px;
+    float: right;
+    font-family: sans-serif;
+}
+
+.parallelogram-two p
+{
+    transform: skew(-20deg);
+}
+
+.parallelogram-three
+{
+    color:white;
+    text-align: center;
+    width: 300px;
+	height: 80px;
+	transform: skew(5deg);
+	background: green;
+    padding: 10px;
+    float: right;
+    font-family: sans-serif;
+}
+
+.parallelogram-three p
+{
+    transform: skew(-20deg);
+}
+
+.parallelogram-four
+{
+    color:white;
+    text-align: center;
+    width: 300px;
+	height: 80px;
+	transform: skew(5deg);
+	background: darkviolet;
+    padding: 10px;
+    float: right;
+    font-family: sans-serif;
+}
+
+.parallelogram-four p
+{
+    transform: skew(-20deg);
+}
+
+.content
+{
+    width: 880px;
+    height: 900px;
+    transform: skew(5deg);
+    padding: 10px;
+}
+
+.left-text
+{
+    padding-top: 45px;
+    padding-bottom: 10px;
+}
+
+.left-text span
+{
+    color: red;
+}
+
+.bot-text span
+{
+    color: red;
+    padding-top: 100px;
+}
+
+.bot-text
+{
+    padding-top: 80px;   
+    float: left;
+}
+
+.rectangle
+{
+    width: 500px;
+    height: 50px;
+    text-align: center;
+    color: white;
+    background-color: darkviolet;
+    font-family: sans-serif;
+    font-size:x-large;
+}
+
+.rectangle-two
+{
+    width: 300px;
+    height: 50px;
+    text-align: center;
+    color: white;
+    background-color:darkgreen;
+    font-family: sans-serif;
+    font-size:x-large;
+}
+
+.left-text img
+{
+    width: 100px;
+    height: 100px;
+    padding: 10px;
+}
+
+.temp-img
+{
+    width: 550px;
+    height: 150px;
+    padding-top: 120px;
+}
+
+.last-content
+{
+    text-align: center;
+    font-size: 15px;
+    color: white;
+}

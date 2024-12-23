@@ -1,0 +1,62 @@
+.container
+{
+    width: 1500px;
+    height: 1500px;
+    font-family: sans-serif;
+    font-weight: bold;
+    background-color:FCF4CA;
+}
+
+.container p
+{
+    text-align: center;
+    color: blue;
+    font-size: large;
+    font-weight: bold;
+}
+
+.college-name p
+{
+    text-align: center;
+    color: red;
+    font-size: x-large;
+}
+
+.form-container 
+{
+    color: brown;
+    font-weight: bold;
+}
+
+.form-container div
+{
+    padding: 10px;
+}
+
+.compulsory 
+{
+    color: red;
+}
+
+.label-info 
+{
+    font-size: small;
+}
+
+.edu-grid-column 
+{
+    width: 150px;
+    float: left;
+}
+
+.edu-grid
+{
+    width: 900px;
+    height: 200px;
+    border: 1px solid black;
+}
+
+.footer
+{
+    color: blue;
+}

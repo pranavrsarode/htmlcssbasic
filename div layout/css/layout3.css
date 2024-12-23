@@ -1,0 +1,40 @@
+.container
+{
+    background-color: aqua;
+    width: 1000px;
+    height: 600px;
+}
+
+.leftbox
+{
+    width: 200px;
+    height: 600px;
+    float: left;
+}
+
+.rightbox
+{
+    color: white;
+    width: 200px;
+    height: 600px;
+    float: left;
+}
+
+.rightbox p
+{
+    transform: rotate(315deg);
+}
+
+.headerbox
+{
+    width: 600px;
+    height: 100px;
+    float: left;
+}
+
+.centerbox
+{
+    width: 600px;
+    height: 500px;
+    float: left;
+}

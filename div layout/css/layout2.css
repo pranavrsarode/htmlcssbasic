@@ -1,0 +1,36 @@
+.container
+{
+    background-color:aqua;
+    width: 1000px;
+    height: 600px;
+}
+
+.leftbox
+{
+    color: white;
+    width: 200px;
+    height: 600px;
+    float: left;
+}
+
+
+.headerbox
+{
+    width: 800px;
+    height: 200px;
+    float: left;
+}
+
+.centerbox
+{
+    width: 800px;
+    height: 200px;
+    float: left;
+}
+
+.footerbox
+{
+    width: 800px;
+    height: 200px;
+    float: left;
+}

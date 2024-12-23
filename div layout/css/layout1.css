@@ -1,0 +1,75 @@
+.container
+{
+    background-color:aqua;
+    width: 1000px;
+    height: 600px;
+}
+
+.headerbox
+{
+    width: 1000px;
+    height: 100px;
+    float: left;
+}
+
+.leftbox
+{
+    color: yellow;
+    width: 150px;
+    height: 400px;
+    float: left;
+}
+
+.centerbox
+{
+    color: white;
+    width: 850px;
+    height: 400px;
+    float: left;
+}
+
+.footerbox
+{
+    color: red;
+    width: 1000px;
+    height: 100px;
+    float: left;
+}
+
+@media screen and (max-width: 500px) {
+    body {
+      background-color: lightgreen;
+    }
+    .headerbox
+    {
+        background-color: red;
+        width: 499px;
+        height: 100px;
+        float: none;
+    }
+
+    .leftbox
+    {
+        background-color: blue;
+        width: 499px;
+        height: 100px;
+        float: none;
+    }
+
+    .centerbox
+    {
+        background-color: green;
+        width: 499px;
+        height: 100px;
+        float: none;
+    }
+
+    .footerbox
+    {
+        background-color: black;
+        color: white;
+        width: 499px;
+        height: 100px;
+        float: none;
+    }
+  }
